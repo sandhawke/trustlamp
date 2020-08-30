@@ -1,3 +1,5 @@
-This repo is for tracking bugs and feature requests for TrustLamp.
+This repo is for doing project management for TrustLamp.   Bugs, feature request, milestones, etc, go here.
 
-The source code is elsewhere. It is being kept private until our social impact review is complete.
+Why?  Because we're keeping the source code private until we've had sufficient review of social impact.  So, 
+this way, we can make this repo public before the source code. (Also, the code is in a few different repos 
+at the moment.)
